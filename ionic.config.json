@@ -1,0 +1,7 @@
+{
+  "name": "camora",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
